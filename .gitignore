@@ -1,0 +1,8 @@
+# Ignore generated files
+*.pdf
+*.png
+attendees.csv
+
+# Ignore Python virtual environment files
+__pycache__/
+*.pyc
